@@ -1,10 +1,6 @@
 [
   {
-    "package": "forrel",
-    "oncran": true
-  },
-  {
-    "package": "ibdsim2",
+    "package": "ribd",
     "oncran": true
   },
   {
@@ -12,23 +8,7 @@
     "oncran": true
   },
   {
-    "package": "paramlink2",
-    "oncran": true
-  },
-  {
-    "package": "pedbuildr",
-    "oncran": true
-  },
-  {
     "package": "pedmut",
-    "oncran": true
-  },
-  {
-    "package": "pedprobr",
-    "oncran": true
-  },
-  {
-    "package": "pedsuite",
     "oncran": true
   },
   {
@@ -36,11 +16,31 @@
     "oncran": true
   },
   {
-    "package": "ribd",
+    "package": "forrel",
+    "oncran": true
+  },
+  {
+    "package": "pedbuildr",
+    "oncran": true
+  },
+  {
+    "package": "paramlink2",
+    "oncran": true
+  },
+  {
+    "package": "ibdsim2",
+    "oncran": true
+  },
+  {
+    "package": "pedprobr",
     "oncran": true
   },
   {
     "package": "segregatr",
+    "oncran": true
+  },
+  {
+    "package": "pedsuite",
     "oncran": true
   },
   {

@@ -3,14 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "forrel"]
-	path = forrel
-	url = https://github.com/magnusdv/forrel
-	shallow = true
-	registered = true
-[submodule "ibdsim2"]
-	path = ibdsim2
-	url = https://github.com/magnusdv/ibdsim2
+[submodule "ribd"]
+	path = ribd
+	url = https://github.com/magnusdv/ribd
 	shallow = true
 	registered = true
 [submodule "paramlink"]
@@ -18,29 +13,9 @@
 	url = https://github.com/magnusdv/paramlink
 	shallow = true
 	registered = true
-[submodule "paramlink2"]
-	path = paramlink2
-	url = https://github.com/magnusdv/paramlink2
-	shallow = true
-	registered = true
-[submodule "pedbuildr"]
-	path = pedbuildr
-	url = https://github.com/magnusdv/pedbuildr
-	shallow = true
-	registered = true
 [submodule "pedmut"]
 	path = pedmut
 	url = https://github.com/magnusdv/pedmut
-	shallow = true
-	registered = true
-[submodule "pedprobr"]
-	path = pedprobr
-	url = https://github.com/magnusdv/pedprobr
-	shallow = true
-	registered = true
-[submodule "pedsuite"]
-	path = pedsuite
-	url = https://github.com/magnusdv/pedsuite
 	shallow = true
 	registered = true
 [submodule "pedtools"]
@@ -48,14 +23,39 @@
 	url = https://github.com/magnusdv/pedtools
 	shallow = true
 	registered = true
-[submodule "ribd"]
-	path = ribd
-	url = https://github.com/magnusdv/ribd
+[submodule "forrel"]
+	path = forrel
+	url = https://github.com/magnusdv/forrel
+	shallow = true
+	registered = true
+[submodule "pedbuildr"]
+	path = pedbuildr
+	url = https://github.com/magnusdv/pedbuildr
+	shallow = true
+	registered = true
+[submodule "paramlink2"]
+	path = paramlink2
+	url = https://github.com/magnusdv/paramlink2
+	shallow = true
+	registered = true
+[submodule "ibdsim2"]
+	path = ibdsim2
+	url = https://github.com/magnusdv/ibdsim2
+	shallow = true
+	registered = true
+[submodule "pedprobr"]
+	path = pedprobr
+	url = https://github.com/magnusdv/pedprobr
 	shallow = true
 	registered = true
 [submodule "segregatr"]
 	path = segregatr
 	url = https://github.com/magnusdv/segregatr
+	shallow = true
+	registered = true
+[submodule "pedsuite"]
+	path = pedsuite
+	url = https://github.com/magnusdv/pedsuite
 	shallow = true
 	registered = true
 [submodule "verbalisr"]
