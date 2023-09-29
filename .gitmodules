@@ -5,6 +5,9 @@
 [submodule "KLINK"]
 	path = KLINK
 	url = https://github.com/magnusdv/klink
+[submodule "dvir"]
+	path = dvir
+	url = https://github.com/magnusdv/dvir
 [submodule "forrel"]
 	path = forrel
 	url = https://github.com/magnusdv/forrel
