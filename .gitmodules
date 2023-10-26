@@ -20,6 +20,9 @@
 [submodule "paramlink2"]
 	path = paramlink2
 	url = https://github.com/magnusdv/paramlink2
+[submodule "pedFamilias"]
+	path = pedFamilias
+	url = https://github.com/magnusdv/pedfamilias
 [submodule "pedbuildr"]
 	path = pedbuildr
 	url = https://github.com/magnusdv/pedbuildr
