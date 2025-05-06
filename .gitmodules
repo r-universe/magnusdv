@@ -14,6 +14,9 @@
 [submodule "ibdsim2"]
 	path = ibdsim2
 	url = https://github.com/magnusdv/ibdsim2
+[submodule "norSTR"]
+	path = norSTR
+	url = https://github.com/magnusdv/norstr
 [submodule "paramlink"]
 	path = paramlink
 	url = https://github.com/magnusdv/paramlink
