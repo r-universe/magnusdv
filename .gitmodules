@@ -11,6 +11,9 @@
 [submodule "forrel"]
 	path = forrel
 	url = https://github.com/magnusdv/forrel
+[submodule "ibdfindr"]
+	path = ibdfindr
+	url = https://github.com/magnusdv/ibdfindr
 [submodule "ibdsim2"]
 	path = ibdsim2
 	url = https://github.com/magnusdv/ibdsim2
