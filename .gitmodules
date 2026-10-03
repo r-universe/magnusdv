@@ -8,6 +8,9 @@
 [submodule "dvir"]
 	path = dvir
 	url = https://github.com/magnusdv/dvir
+[submodule "famnesia"]
+	path = famnesia
+	url = https://github.com/magnusdv/famnesia
 [submodule "forrel"]
 	path = forrel
 	url = https://github.com/magnusdv/forrel
